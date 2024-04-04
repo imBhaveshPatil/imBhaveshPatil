@@ -30,9 +30,13 @@
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=imBhaveshPatil&theme=outrun&show_icons=true&hide_border=true&count_private=true" />
     </a>
+</div>
+<div align="center">
     <a>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=imBhaveshPatil&theme=outrun&hide_border=true" />
     </a>
+</div>
+<div align="center">
     <a>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imBhaveshPatil&theme=outrun&show_icons=true&hide_border=true&layout=compact" />
     </a>
