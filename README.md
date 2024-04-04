@@ -26,11 +26,14 @@
 
 <br/>
 <hr/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=imBhaveshPatil&theme=outrun&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imBhaveshPatil&theme=outrun&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imBhaveshPatil&theme=outrun&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imBhaveshPatil&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imBhaveshPatil&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imBhaveshPatil&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-![](https://komarev.com/ghpvc/?username=imBhaveshPatil&label=PROFILE+VIEWS&color=orange&abbreviated=true&style=for-the-badge)
+</br>
+<hr/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=imBhaveshPatil&label=PROFILE+VIEWS&color=orange&abbreviated=true&style=for-the-badge" />
+</div>
