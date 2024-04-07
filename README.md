@@ -15,7 +15,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
-
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -51,8 +50,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imBhaveshPatil&theme=outrun&show_icons=true&hide_border=true&layout=compact" />
     </a>
 </div>
-
 </br>
+
 <hr/>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=imBhaveshPatil&label=PROFILE+VIEWS&color=orange&abbreviated=true&style=for-the-badge" />
